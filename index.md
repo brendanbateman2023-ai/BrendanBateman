@@ -21,6 +21,6 @@ I specialize in leveraging tools like **Python, SQL, and Tableau** to analyze co
 
 ## ✉️ Get In Touch
 I am currently seeking internship and entry-level opportunities in Data Analytics and Business Intelligence.
-* **LinkedIn:** [Your Link Here]
-* **Email:** [Your Email Here]
+* **LinkedIn:** www.linkedin.com/in/brendan-bateman
+* **Email:** brendan.bateman@du.edu
 * **GitHub:** [brendanbateman2023-ai](https://github.com/brendanbateman2023-ai)
