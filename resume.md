@@ -11,7 +11,9 @@ title: Resume
 
 ### 🎓 Education
 **University of Denver** | *BS in Business Analytics* | 2023 – 2026
-* Minor in Computer Science
+* Minors:
+* Finance
+* Business Ethics and Legal Studies 
 * **Relevant Coursework:** Python for Data Science, Statistics, Database Management.
 
 ### 🛠 Technical Toolkit
@@ -19,7 +21,7 @@ title: Resume
 * **Tools:** Tableau, Power BI, Excel (VBA/Macros), Git/GitHub
 
 ### 💼 Experience
-**Legal Intern** | Washington D.C. 
+**Legal Intern** | Kellogg, Hansen, Todd, Figel, & Frederick
 * Analyzed 50 years of fatal accident reporting system data
 * Turned raw data into actionable insight for our attorneys
 
