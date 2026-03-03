@@ -9,7 +9,7 @@ title: Home
 
 ### Aspiring Data Analyst | Problem Solver | Continuous Learner
 
-Welcome to my professional portfolio. I am a student at the **University of Denver** with a passion for turning raw data into meaningful stories that drive business impact. 
+I’m a Business Information Analytics student at the University of Denver and Division I athlete who specializes in turning complex data into clear business insights. I’m passionate about using analytics, technology, and strategic thinking to help organizations make smarter, data-driven decisions.
 
 ---
 
