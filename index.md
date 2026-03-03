@@ -5,6 +5,8 @@ title: Home
 
 # Hello, I'm Brendan Bateman
 
+![Brendan Bateman](./Screenshot%202024-04-03%202051245.png)
+
 ### Aspiring Data Analyst | Problem Solver | Continuous Learner
 
 Welcome to my professional portfolio. I am a student at the **University of Denver** with a passion for turning raw data into meaningful stories that drive business impact. 
