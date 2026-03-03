@@ -4,7 +4,6 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
 
-# This adds the navigation links to your sidebar
 show_downloads: false
 navigation:
   - title: Home
@@ -13,5 +12,5 @@ navigation:
     url: /BrendanBateman/skills.html
   - title: Projects
     url: /BrendanBateman/projects.html
-  - title: Experience
-    url: /BrendanBateman/experience.html
+  - title: Resume
+    url: /BrendanBateman/resume.html
