@@ -17,9 +17,9 @@ Welcome to my professional portfolio. I am a student at the **University of Denv
 I specialize in leveraging tools like **Python, SQL, and Tableau** to analyze complex datasets. My goal is to bridge the gap between technical execution and high-level business strategy.
 
 ## 📂 Explore My Work
-* **[Technical Skills](./skills.md):** A breakdown of my toolkit and certifications.
-- [**Projects**](./projects.html): Real-world applications of data science and analytics.
-- [**Resume**](./resume.html): My professional journey and education history.
+* [**Technical Skills**](./skills.html): A breakdown of my toolkit and certifications.
+* [**Projects**](./projects.html): Real-world applications of data science and analytics.
+* [**Resume**](./resume.html): My professional journey and education history.
 
 ## ✉️ Get In Touch
 I am currently seeking internship and entry-level opportunities in Data Analytics and Business Intelligence.
