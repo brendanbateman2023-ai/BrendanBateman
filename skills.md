@@ -24,4 +24,4 @@ I bridge the gap between complex data analysis and strategic business decisions.
 * **Agile Methodology:** Working within iterative cycles to deliver continuous project value.
 * **Problem Solving:** Breaking down ambiguous business questions into structured analytical tasks.
 
-> **Current Focus:** I am currently expanding my kit to include Cloud Computing (AWS) and advanced Machine Learning workflows.
+> **Current Focus:** I am currently expanding my experience to include Cloud Computing (AWS) and advanced Machine Learning workflows.
